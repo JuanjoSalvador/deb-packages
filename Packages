@@ -1,0 +1,11 @@
+Package: Perdita
+Version: 1.0.1
+Architecture: all
+Maintainer: Juanjo Salvador <juanjosalvador@netc.eu>
+Filename: ./perdita_1.0.1_all.deb
+Size: 30116
+MD5sum: fb05390ca8e30833e2b17e240389552a
+SHA1: 96460fe6c3a59e2aa38c2bc3a3877f20d215c732
+SHA256: 448fd003499892524e7131451b1875fbd7a2d4fbb980bb1f0240e21867066a6f
+Description: Durango-X Homebrew Computer Emulator
+
